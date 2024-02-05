@@ -7,3 +7,5 @@
 #### 🔊 Meios de Contato
 
 [![fff](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@me/928859463471992854) [![ggg](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/GLW7IL4OKS5MB1)
+
+ <script src="https://tryhackme.com/badge/2734426"></script>
